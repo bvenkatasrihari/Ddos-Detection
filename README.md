@@ -1,4 +1,5 @@
- Even though sophisticated Machine Learning (ML) techniques have revolutionized DDoS assault detection
+----------------Semi-Supervised Learning Method for Detecting DDoS Attacks--------------------
+Even though sophisticated Machine Learning (ML) techniques have revolutionized DDoS assault detection
 methods in recent years, the attack is still regarded as one of the most significant danger categories on the Internet.
 The vast majority of current methods for detecting Distributed Denial of Service can be divided into two categories:
 supervised and unsupervised machine learning. Labeled samples of network traffic datasets are selected for learning
